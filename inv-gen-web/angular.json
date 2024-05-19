@@ -69,10 +69,10 @@
           "builder": "@angular-devkit/build-angular:dev-server",
           "configurations": {
             "production": {
-              "browserTarget": "inv-gen-web:build:production"
+              "buildTarget": "inv-gen-web:build:production"
             },
             "development": {
-              "browserTarget": "inv-gen-web:build:development"
+              "buildTarget": "inv-gen-web:build:development"
             }
           },
           "defaultConfiguration": "development"
@@ -80,7 +80,7 @@
         "extract-i18n": {
           "builder": "@angular-devkit/build-angular:extract-i18n",
           "options": {
-            "browserTarget": "inv-gen-web:build"
+            "buildTarget": "inv-gen-web:build"
           }
         },
         "test": {
