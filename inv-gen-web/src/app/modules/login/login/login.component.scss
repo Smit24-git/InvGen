@@ -1,0 +1,37 @@
+.cool-invoice-generator-animation{
+    animation-name: invGenAnimate;
+    animation-duration: 2s;
+    overflow: hidden;
+    text-wrap: nowrap;
+}
+.show-login {
+    animation-name: showLogin;
+    animation-duration: 3s;
+    overflow: hidden;
+    text-wrap: nowrap;
+}
+@keyframes invGenAnimate {
+    from { width: 0%;}
+    to { width: 100%;}
+}
+
+@keyframes showLogin {
+    0%   {
+        visibility: hidden;
+        opacity: 0;
+    }
+    50%  {
+        visibility: hidden;
+        opacity: 0;    
+    }
+
+    from { 
+        visibility: hidden;
+        opacity: 0;
+        transition-delay: 2s;
+    }
+    to { 
+        visibility: visible;
+        opacity: 1;
+     }
+}

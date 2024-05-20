@@ -1,0 +1,45 @@
+<div class="p-2 flex flex-column vertical-align-middle align-items-center">
+    <div class="mt-5 text-5xl" style="letter-spacing: 5px;" >
+        <div 
+            class="cool-invoice-generator-animation text-primary"
+            style="font-family: sans-serif;">
+            <span class="text-orange-500 font-bold">I</span>nvoice <span class="text-orange-500 font-bold	">G</span>enerator</div>
+    </div>
+    <div class="w-full mt-5">
+        <div class="font-italic text-xl show-login text-color-secondary p-3 sm:w-30rem w-full m-auto">
+            <!-- login card -->
+            <p-card styleClass="bg-primary-reverse	">
+                <ng-template pTemplate="title" >
+                    <div style="letter-spacing: 5px;">
+                        Login
+                    </div>
+                </ng-template>
+                <div class="flex flex-column gap-2 p-fluid">
+                    <form [formGroup]="form" (submit)="authenticateUser()">
+                        <div class="flex-1 field">
+                            <input type="text" pInputText formControlName="username" placeholder="Username" />
+                        </div>
+                        <div class="flex-1 field">
+                            <input type="password" pInputText formControlName="password" placeholder="Password"/>
+                        </div>
+                        <div class="flex-1 field">
+                            <p-button label="Submit" type="submit" [disabled]="form.invalid"></p-button>
+                        </div>
+                    </form>
+                </div>
+            </p-card>
+            <!-- sign up button -->
+            <div>
+                <p-button 
+                    label="Register" 
+                    [style]="{float: 'right'}" 
+                    styleClass="mt-2"
+                    severity="secondary"
+                    size="small" ></p-button>
+            </div>
+            
+        </div>
+        
+    </div>
+    
+</div>
