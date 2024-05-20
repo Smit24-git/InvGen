@@ -2,11 +2,11 @@
 <p-card styleClass="bg-primary-reverse	">
     <ng-template pTemplate="title" >
         <div style="letter-spacing: 5px;">
-            Login
+            Register
         </div>
     </ng-template>
     <div class="flex flex-column gap-2 p-fluid">
-        <form [formGroup]="form" (submit)="authenticateUser()">
+        <form [formGroup]="form" (submit)="registerUser()">
             <div class="flex-1 field">
                 <input type="text" pInputText formControlName="username" placeholder="Username" />
             </div>
@@ -14,18 +14,22 @@
                 <input type="password" pInputText formControlName="password" placeholder="Password"/>
             </div>
             <div class="flex-1 field">
+                <input type="password" pInputText formControlName="rPassword" placeholder="Retype Password"/>
+            </div>
+            <div class="flex-1 field">
                 <p-button label="Submit" type="submit" [disabled]="form.invalid"></p-button>
             </div>
         </form>
     </div>
 </p-card>
+
 <!-- sign up button -->
 <div>
     <p-button 
-        label="Register" 
+        label="Login" 
         [style]="{float: 'right'}" 
         styleClass="mt-2 w-10rem"
         severity="secondary"
         size="small"
-        (onClick)="register()"></p-button>
+        (onClick)="login()"></p-button>
 </div>

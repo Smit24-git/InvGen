@@ -1,16 +1,17 @@
 import { Component, EventEmitter, OnInit, Output, inject } from '@angular/core';
+import { CommonModule } from '@angular/common';
 import { FormBuilder, FormGroup, Validators } from '@angular/forms';
-import { LoginModel } from '../login.model';
 
 @Component({
-  selector: 'app-login',
-  templateUrl: './login.component.html',
-  styleUrl: './login.component.scss'
+  selector: 'app-register',
+  templateUrl: './register.component.html',
+  styleUrl: './register.component.scss'
 })
-export class LoginComponent implements OnInit {
+export class RegisterComponent implements OnInit {
+
   form!:FormGroup;
   
-  @Output() onRegister = new EventEmitter<void>();
+  @Output() onLogin = new EventEmitter<void>();
 
   fb:FormBuilder = inject(FormBuilder);
 
@@ -26,14 +27,15 @@ export class LoginComponent implements OnInit {
     this.form = this.fb.group({
       username: ['',Validators.required],
       password: ['',Validators.required],
+      rPassword: ['',Validators.required],
     });
   }
 
-  authenticateUser() {
+  registerUser() {
 
   }
 
-  register(){
-    this.onRegister.emit();  
+  login(){
+    this.onLogin.emit();  
   }
 }
