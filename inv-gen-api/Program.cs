@@ -1,25 +1,20 @@
+using inv_gen_api;
+using Serilog;
+
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
+// logger
+Log.Logger = new LoggerConfiguration().MinimumLevel.Information()
+            .WriteTo.File("log/.txt", rollingInterval: RollingInterval.Day)
+            .CreateLogger();
+builder.Host.UseSerilog();
 
-builder.Services.AddControllers();
-// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
-builder.Services.AddSwaggerGen();
 
-var app = builder.Build();
+var app = builder
+    .ConfigurationService()
+    .ConfigurationPipeline();
 
-// Configure the HTTP request pipeline.
-if (app.Environment.IsDevelopment())
-{
-    app.UseSwagger();
-    app.UseSwaggerUI();
-}
-
-app.UseHttpsRedirection();
-
-app.UseAuthorization();
-
-app.MapControllers();
+app.UseSerilogRequestLogging();
 
 app.Run();

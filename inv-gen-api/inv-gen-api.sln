@@ -3,7 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34202.233
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "inv-gen-api", "inv-gen-api.csproj", "{E2E31B66-BA04-4BF0-87FB-44EFCC6C002C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "inv-gen-api", "inv-gen-api.csproj", "{E2E31B66-BA04-4BF0-87FB-44EFCC6C002C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "inv-gen-api.Application", "..\inv-gen-api.Application\inv-gen-api.Application.csproj", "{96534B17-8EB2-47F5-8F3A-7DFBCE9C4953}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "inv-gen-api.Persistence", "..\inv-gen-api.Persistence\inv-gen-api.Persistence.csproj", "{2084C347-880F-45C9-8B5F-E97E3F9A6129}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "inv-gen-api.Persistence.MySQL", "..\inv-gen-api.Persistence.MySQL\inv-gen-api.Persistence.MySQL.csproj", "{C2D51120-75EF-447A-AE67-B82605B437BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "inv-gen-api.Repositories", "..\inv-gen-api.Repositories\inv-gen-api.Repositories.csproj", "{762E6C4B-353B-415B-A990-06CEC019EAE5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +23,22 @@ Global
 		{E2E31B66-BA04-4BF0-87FB-44EFCC6C002C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E2E31B66-BA04-4BF0-87FB-44EFCC6C002C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E2E31B66-BA04-4BF0-87FB-44EFCC6C002C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96534B17-8EB2-47F5-8F3A-7DFBCE9C4953}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96534B17-8EB2-47F5-8F3A-7DFBCE9C4953}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96534B17-8EB2-47F5-8F3A-7DFBCE9C4953}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96534B17-8EB2-47F5-8F3A-7DFBCE9C4953}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2084C347-880F-45C9-8B5F-E97E3F9A6129}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2084C347-880F-45C9-8B5F-E97E3F9A6129}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2084C347-880F-45C9-8B5F-E97E3F9A6129}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2084C347-880F-45C9-8B5F-E97E3F9A6129}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2D51120-75EF-447A-AE67-B82605B437BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2D51120-75EF-447A-AE67-B82605B437BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2D51120-75EF-447A-AE67-B82605B437BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2D51120-75EF-447A-AE67-B82605B437BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{762E6C4B-353B-415B-A990-06CEC019EAE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{762E6C4B-353B-415B-A990-06CEC019EAE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{762E6C4B-353B-415B-A990-06CEC019EAE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{762E6C4B-353B-415B-A990-06CEC019EAE5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

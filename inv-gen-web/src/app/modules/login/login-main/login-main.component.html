@@ -7,19 +7,11 @@
     </div>
     <div class="w-full mt-5">
         <div class="font-italic text-xl show-login text-color-secondary p-3 sm:w-30rem w-full m-auto">
-            <!-- login component -->
             @if(isLogin){
-                <app-login
-                    (onRegister)="isLogin=false">
-
-                </app-login>
+                <app-login (onRegister)="isLogin=false"> </app-login>
             }
             @else{
-                <!-- register component -->
-                <app-register
-                    (onLogin)="isLogin=true">
-
-                </app-register>
+                <app-register (onLogin)="isLogin=true"> </app-register>
             }
         </div>
     </div>

@@ -1,0 +1,281 @@
+2024-05-23 19:09:48.301 -04:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2024-05-23 19:09:48.465 -04:00 [INF] Now listening on: https://localhost:7163
+2024-05-23 19:09:48.466 -04:00 [INF] Now listening on: http://localhost:5266
+2024-05-23 19:09:48.467 -04:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-23 19:09:48.467 -04:00 [INF] Hosting environment: Development
+2024-05-23 19:09:48.467 -04:00 [INF] Content root path: D:\Projects\InvGen\inv-gen-api
+2024-05-23 21:04:49.088 -04:00 [INF] User profile is available. Using 'C:\Users\smits\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-05-23 21:04:49.278 -04:00 [INF] Now listening on: https://localhost:7163
+2024-05-23 21:04:49.278 -04:00 [INF] Now listening on: http://localhost:5266
+2024-05-23 21:04:49.279 -04:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-23 21:04:49.279 -04:00 [INF] Hosting environment: Development
+2024-05-23 21:04:49.279 -04:00 [INF] Content root path: D:\Projects\InvGen\inv-gen-api
+2024-05-23 21:05:11.800 -04:00 [INF] User profile is available. Using 'C:\Users\smits\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-05-23 21:05:11.994 -04:00 [INF] Now listening on: https://localhost:7163
+2024-05-23 21:05:11.994 -04:00 [INF] Now listening on: http://localhost:5266
+2024-05-23 21:05:11.995 -04:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-23 21:05:11.995 -04:00 [INF] Hosting environment: Development
+2024-05-23 21:05:11.995 -04:00 [INF] Content root path: D:\Projects\InvGen\inv-gen-api
+2024-05-23 21:05:26.893 -04:00 [INF] User profile is available. Using 'C:\Users\smits\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-05-23 21:05:27.092 -04:00 [INF] Now listening on: https://localhost:7163
+2024-05-23 21:05:27.092 -04:00 [INF] Now listening on: http://localhost:5266
+2024-05-23 21:05:27.096 -04:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-23 21:05:27.096 -04:00 [INF] Hosting environment: Development
+2024-05-23 21:05:27.096 -04:00 [INF] Content root path: D:\Projects\InvGen\inv-gen-api
+2024-05-23 21:06:18.308 -04:00 [INF] User profile is available. Using 'C:\Users\smits\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-05-23 21:06:18.479 -04:00 [INF] Now listening on: https://localhost:7163
+2024-05-23 21:06:18.479 -04:00 [INF] Now listening on: http://localhost:5266
+2024-05-23 21:06:18.481 -04:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-23 21:06:18.481 -04:00 [INF] Hosting environment: Development
+2024-05-23 21:06:18.481 -04:00 [INF] Content root path: D:\Projects\InvGen\inv-gen-api
+2024-05-23 21:06:34.921 -04:00 [INF] User profile is available. Using 'C:\Users\smits\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-05-23 21:06:35.022 -04:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-23 21:06:35.023 -04:00 [INF] Hosting environment: Development
+2024-05-23 21:06:35.023 -04:00 [INF] Content root path: D:\Projects\InvGen\inv-gen-api
+2024-05-23 21:07:59.932 -04:00 [INF] User profile is available. Using 'C:\Users\smits\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-05-23 21:08:00.071 -04:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-23 21:08:00.071 -04:00 [INF] Hosting environment: Development
+2024-05-23 21:08:00.071 -04:00 [INF] Content root path: D:\Projects\InvGen\inv-gen-api
+2024-05-23 21:08:48.156 -04:00 [INF] User profile is available. Using 'C:\Users\smits\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-05-23 21:08:48.324 -04:00 [INF] Now listening on: https://localhost:7163
+2024-05-23 21:08:48.325 -04:00 [INF] Now listening on: http://localhost:5266
+2024-05-23 21:08:48.326 -04:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-23 21:08:48.326 -04:00 [INF] Hosting environment: Development
+2024-05-23 21:08:48.326 -04:00 [INF] Content root path: D:\Projects\InvGen\inv-gen-api
+2024-05-23 21:09:42.859 -04:00 [INF] User profile is available. Using 'C:\Users\smits\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-05-23 21:09:43.209 -04:00 [INF] Now listening on: https://localhost:7163
+2024-05-23 21:09:43.209 -04:00 [INF] Now listening on: http://localhost:5266
+2024-05-23 21:09:43.211 -04:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-23 21:09:43.211 -04:00 [INF] Hosting environment: Development
+2024-05-23 21:09:43.211 -04:00 [INF] Content root path: D:\Projects\InvGen\inv-gen-api
+2024-05-23 21:10:01.862 -04:00 [INF] User profile is available. Using 'C:\Users\smits\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-05-23 21:10:02.047 -04:00 [INF] Now listening on: https://localhost:7163
+2024-05-23 21:10:02.047 -04:00 [INF] Now listening on: http://localhost:5266
+2024-05-23 21:10:02.049 -04:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-23 21:10:02.049 -04:00 [INF] Hosting environment: Development
+2024-05-23 21:10:02.049 -04:00 [INF] Content root path: D:\Projects\InvGen\inv-gen-api
+2024-05-23 21:10:16.750 -04:00 [INF] User profile is available. Using 'C:\Users\smits\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-05-23 21:10:16.862 -04:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-23 21:10:16.863 -04:00 [INF] Hosting environment: Development
+2024-05-23 21:10:16.863 -04:00 [INF] Content root path: D:\Projects\InvGen\inv-gen-api
+2024-05-23 21:12:05.906 -04:00 [INF] User profile is available. Using 'C:\Users\smits\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-05-23 21:12:06.095 -04:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-23 21:12:06.096 -04:00 [INF] Hosting environment: Development
+2024-05-23 21:12:06.096 -04:00 [INF] Content root path: D:\Projects\InvGen\inv-gen-api
+2024-05-23 21:13:09.402 -04:00 [INF] User profile is available. Using 'C:\Users\smits\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-05-23 21:13:09.496 -04:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-23 21:13:09.496 -04:00 [INF] Hosting environment: Development
+2024-05-23 21:13:09.496 -04:00 [INF] Content root path: D:\Projects\InvGen\inv-gen-api
+2024-05-23 21:13:25.567 -04:00 [INF] User profile is available. Using 'C:\Users\smits\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-05-23 21:13:25.756 -04:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-23 21:13:25.757 -04:00 [INF] Hosting environment: Development
+2024-05-23 21:13:25.757 -04:00 [INF] Content root path: D:\Projects\InvGen\inv-gen-api
+2024-05-23 21:14:09.814 -04:00 [INF] User profile is available. Using 'C:\Users\smits\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-05-23 21:14:09.910 -04:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-23 21:14:09.911 -04:00 [INF] Hosting environment: Development
+2024-05-23 21:14:09.911 -04:00 [INF] Content root path: D:\Projects\InvGen\inv-gen-api
+2024-05-23 21:17:04.018 -04:00 [INF] User profile is available. Using 'C:\Users\smits\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-05-23 21:17:04.118 -04:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-23 21:17:04.118 -04:00 [INF] Hosting environment: Development
+2024-05-23 21:17:04.118 -04:00 [INF] Content root path: D:\Projects\InvGen\inv-gen-api
+2024-05-23 21:18:52.147 -04:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2024-05-23 21:18:52.173 -04:00 [INF] User profile is available. Using 'C:\Users\smits\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-05-23 21:18:52.254 -04:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-23 21:18:52.254 -04:00 [INF] Hosting environment: Development
+2024-05-23 21:18:52.254 -04:00 [INF] Content root path: D:\Projects\InvGen\inv-gen-api
+2024-05-23 21:19:32.033 -04:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2024-05-23 21:19:32.066 -04:00 [INF] User profile is available. Using 'C:\Users\smits\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-05-23 21:19:32.168 -04:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-23 21:19:32.168 -04:00 [INF] Hosting environment: Development
+2024-05-23 21:19:32.168 -04:00 [INF] Content root path: D:\Projects\InvGen\inv-gen-api
+2024-05-23 21:19:50.773 -04:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2024-05-23 21:19:50.800 -04:00 [INF] User profile is available. Using 'C:\Users\smits\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-05-23 21:19:50.877 -04:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-23 21:19:50.877 -04:00 [INF] Hosting environment: Development
+2024-05-23 21:19:50.877 -04:00 [INF] Content root path: D:\Projects\InvGen\inv-gen-api
+2024-05-23 21:20:30.513 -04:00 [INF] User profile is available. Using 'C:\Users\smits\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-05-23 21:20:30.624 -04:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-23 21:20:30.624 -04:00 [INF] Hosting environment: Development
+2024-05-23 21:20:30.624 -04:00 [INF] Content root path: D:\Projects\InvGen\inv-gen-api
+2024-05-23 21:25:42.115 -04:00 [INF] User profile is available. Using 'C:\Users\smits\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-05-23 21:25:42.228 -04:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-23 21:25:42.228 -04:00 [INF] Hosting environment: Development
+2024-05-23 21:25:42.228 -04:00 [INF] Content root path: D:\Projects\InvGen\inv-gen-api
+2024-05-23 21:26:47.215 -04:00 [INF] User profile is available. Using 'C:\Users\smits\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-05-23 21:26:47.324 -04:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-23 21:26:47.324 -04:00 [INF] Hosting environment: Development
+2024-05-23 21:26:47.324 -04:00 [INF] Content root path: D:\Projects\InvGen\inv-gen-api
+2024-05-23 21:32:57.465 -04:00 [INF] User profile is available. Using 'C:\Users\smits\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-05-23 21:32:57.632 -04:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-23 21:32:57.632 -04:00 [INF] Hosting environment: Development
+2024-05-23 21:32:57.632 -04:00 [INF] Content root path: D:\Projects\InvGen\inv-gen-api
+2024-05-23 21:33:18.423 -04:00 [INF] User profile is available. Using 'C:\Users\smits\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-05-23 21:33:18.585 -04:00 [INF] Now listening on: https://localhost:7163
+2024-05-23 21:33:18.585 -04:00 [INF] Now listening on: http://localhost:5266
+2024-05-23 21:33:18.586 -04:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-23 21:33:18.586 -04:00 [INF] Hosting environment: Development
+2024-05-23 21:33:18.586 -04:00 [INF] Content root path: D:\Projects\InvGen\inv-gen-api
+2024-05-23 21:37:10.577 -04:00 [INF] User profile is available. Using 'C:\Users\smits\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-05-23 21:37:10.719 -04:00 [INF] Now listening on: https://localhost:7163
+2024-05-23 21:37:10.719 -04:00 [INF] Now listening on: http://localhost:5266
+2024-05-23 21:37:10.720 -04:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-23 21:37:10.720 -04:00 [INF] Hosting environment: Development
+2024-05-23 21:37:10.720 -04:00 [INF] Content root path: D:\Projects\InvGen\inv-gen-api
+2024-05-23 21:39:25.066 -04:00 [INF] User profile is available. Using 'C:\Users\smits\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-05-23 21:39:25.303 -04:00 [INF] Now listening on: https://localhost:9000
+2024-05-23 21:39:25.303 -04:00 [INF] Now listening on: http://localhost:9001
+2024-05-23 21:39:25.304 -04:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-23 21:39:25.305 -04:00 [INF] Hosting environment: Development
+2024-05-23 21:39:25.305 -04:00 [INF] Content root path: D:\Projects\InvGen\inv-gen-api
+2024-05-23 21:41:22.885 -04:00 [INF] User profile is available. Using 'C:\Users\smits\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-05-23 21:41:23.044 -04:00 [INF] Now listening on: https://localhost:9000
+2024-05-23 21:41:23.044 -04:00 [INF] Now listening on: http://localhost:9001
+2024-05-23 21:41:23.045 -04:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-23 21:41:23.046 -04:00 [INF] Hosting environment: Development
+2024-05-23 21:41:23.046 -04:00 [INF] Content root path: D:\Projects\InvGen\inv-gen-api
+2024-05-23 21:43:30.142 -04:00 [INF] User profile is available. Using 'C:\Users\smits\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-05-23 21:43:30.281 -04:00 [INF] Now listening on: https://localhost:1555
+2024-05-23 21:43:30.281 -04:00 [INF] Now listening on: http://localhost:1556
+2024-05-23 21:43:30.282 -04:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-23 21:43:30.282 -04:00 [INF] Hosting environment: Development
+2024-05-23 21:43:30.282 -04:00 [INF] Content root path: D:\Projects\InvGen\inv-gen-api
+2024-05-23 21:43:30.594 -04:00 [INF] Request starting HTTP/2 GET https://localhost:1555/swagger - null null
+2024-05-23 21:43:30.721 -04:00 [INF] Request finished HTTP/2 GET https://localhost:1555/swagger - 301 0 null 131.638ms
+2024-05-23 21:43:30.731 -04:00 [INF] Request starting HTTP/2 GET https://localhost:1555/swagger/index.html - null null
+2024-05-23 21:43:30.805 -04:00 [INF] Request finished HTTP/2 GET https://localhost:1555/swagger/index.html - 200 null text/html;charset=utf-8 73.9281ms
+2024-05-23 21:43:30.811 -04:00 [INF] Request starting HTTP/2 GET https://localhost:1555/swagger/swagger-ui.css - null null
+2024-05-23 21:43:30.818 -04:00 [INF] Request starting HTTP/2 GET https://localhost:1555/swagger/swagger-ui-bundle.js - null null
+2024-05-23 21:43:30.818 -04:00 [INF] Request starting HTTP/2 GET https://localhost:1555/_framework/aspnetcore-browser-refresh.js - null null
+2024-05-23 21:43:30.818 -04:00 [INF] Request starting HTTP/2 GET https://localhost:1555/swagger/swagger-ui-standalone-preset.js - null null
+2024-05-23 21:43:30.819 -04:00 [INF] Request starting HTTP/2 GET https://localhost:1555/_vs/browserLink - null null
+2024-05-23 21:43:30.852 -04:00 [INF] Request finished HTTP/2 GET https://localhost:1555/_framework/aspnetcore-browser-refresh.js - 200 13758 application/javascript; charset=utf-8 33.6709ms
+2024-05-23 21:43:30.862 -04:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2024-05-23 21:43:30.862 -04:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2024-05-23 21:43:30.863 -04:00 [INF] Request finished HTTP/2 GET https://localhost:1555/swagger/swagger-ui-standalone-preset.js - 200 339486 text/javascript 44.4781ms
+2024-05-23 21:43:30.863 -04:00 [INF] Request finished HTTP/2 GET https://localhost:1555/swagger/swagger-ui.css - 200 143943 text/css 52.3984ms
+2024-05-23 21:43:30.876 -04:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2024-05-23 21:43:30.876 -04:00 [INF] Request finished HTTP/2 GET https://localhost:1555/swagger/swagger-ui-bundle.js - 200 1096145 text/javascript 57.7241ms
+2024-05-23 21:43:30.893 -04:00 [INF] Request finished HTTP/2 GET https://localhost:1555/_vs/browserLink - 200 null text/javascript; charset=UTF-8 74.4424ms
+2024-05-23 21:43:31.019 -04:00 [INF] Request starting HTTP/2 GET https://localhost:1555/swagger/v1/swagger.json - null null
+2024-05-23 21:43:31.035 -04:00 [INF] Request starting HTTP/2 GET https://localhost:1555/swagger/favicon-32x32.png - null null
+2024-05-23 21:43:31.035 -04:00 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2024-05-23 21:43:31.036 -04:00 [INF] Request finished HTTP/2 GET https://localhost:1555/swagger/favicon-32x32.png - 200 628 image/png 1.3758ms
+2024-05-23 21:43:31.097 -04:00 [INF] Request finished HTTP/2 GET https://localhost:1555/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 79.5213ms
+2024-05-23 21:44:08.564 -04:00 [INF] Request starting HTTP/2 POST https://localhost:1555/Api/Users/Register - application/json-patch+json 50
+2024-05-23 21:44:08.580 -04:00 [INF] CORS policy execution successful.
+2024-05-23 21:44:08.710 -04:00 [INF] Executing endpoint 'inv_gen_api.Controllers.UserController.RegisterUser (inv-gen-api)'
+2024-05-23 21:44:08.728 -04:00 [INF] Route matched with {action = "RegisterUser", controller = "User"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[inv_gen_api.Application.Features.Users.Commands.RegisterUser.RegisterUserCommandResponse]] RegisterUser(inv_gen_api.Application.Features.Users.Commands.RegisterUser.RegisterUserCommand) on controller inv_gen_api.Controllers.UserController (inv-gen-api).
+2024-05-23 21:44:10.045 -04:00 [INF] Executed DbCommand (30ms) [Parameters=[@__userName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT EXISTS (
+    SELECT 1
+    FROM `AspNetUsers` AS `a`
+    WHERE `a`.`UserName` = @__userName_0)
+2024-05-23 21:44:10.067 -04:00 [INF] Executing OkObjectResult, writing value of type 'inv_gen_api.Application.Features.Users.Commands.RegisterUser.RegisterUserCommandResponse'.
+2024-05-23 21:44:10.090 -04:00 [INF] Executed action inv_gen_api.Controllers.UserController.RegisterUser (inv-gen-api) in 1360.202ms
+2024-05-23 21:44:10.091 -04:00 [INF] Executed endpoint 'inv_gen_api.Controllers.UserController.RegisterUser (inv-gen-api)'
+2024-05-23 21:44:10.092 -04:00 [INF] HTTP POST /Api/Users/Register responded 200 in 1382.2871 ms
+2024-05-23 21:44:10.097 -04:00 [INF] Request finished HTTP/2 POST https://localhost:1555/Api/Users/Register - 200 152 application/json; charset=utf-8 1533.8712ms
+2024-05-23 21:44:23.199 -04:00 [INF] Request starting HTTP/2 POST https://localhost:1555/Api/Users/Register - application/json-patch+json 24
+2024-05-23 21:44:23.200 -04:00 [INF] CORS policy execution successful.
+2024-05-23 21:44:23.201 -04:00 [INF] Executing endpoint 'inv_gen_api.Controllers.UserController.RegisterUser (inv-gen-api)'
+2024-05-23 21:44:23.201 -04:00 [INF] Route matched with {action = "RegisterUser", controller = "User"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[inv_gen_api.Application.Features.Users.Commands.RegisterUser.RegisterUserCommandResponse]] RegisterUser(inv_gen_api.Application.Features.Users.Commands.RegisterUser.RegisterUserCommand) on controller inv_gen_api.Controllers.UserController (inv-gen-api).
+2024-05-23 21:44:23.205 -04:00 [INF] Executing BadRequestObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ValidationProblemDetails'.
+2024-05-23 21:44:23.218 -04:00 [INF] Executed action inv_gen_api.Controllers.UserController.RegisterUser (inv-gen-api) in 17.1603ms
+2024-05-23 21:44:23.218 -04:00 [INF] Executed endpoint 'inv_gen_api.Controllers.UserController.RegisterUser (inv-gen-api)'
+2024-05-23 21:44:23.218 -04:00 [INF] HTTP POST /Api/Users/Register responded 400 in 17.5822 ms
+2024-05-23 21:44:23.219 -04:00 [INF] Request finished HTTP/2 POST https://localhost:1555/Api/Users/Register - 400 250 application/problem+json; charset=utf-8 19.5988ms
+2024-05-23 21:46:09.258 -04:00 [INF] Request starting HTTP/2 POST https://localhost:1555/Api/Users/Register - application/json-patch+json 50
+2024-05-23 21:46:09.261 -04:00 [INF] CORS policy execution successful.
+2024-05-23 21:46:09.263 -04:00 [INF] Executing endpoint 'inv_gen_api.Controllers.UserController.RegisterUser (inv-gen-api)'
+2024-05-23 21:46:09.263 -04:00 [INF] Route matched with {action = "RegisterUser", controller = "User"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[inv_gen_api.Application.Features.Users.Commands.RegisterUser.RegisterUserCommandResponse]] RegisterUser(inv_gen_api.Application.Features.Users.Commands.RegisterUser.RegisterUserCommand) on controller inv_gen_api.Controllers.UserController (inv-gen-api).
+2024-05-23 21:46:09.300 -04:00 [INF] Executed DbCommand (1ms) [Parameters=[@__userName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT EXISTS (
+    SELECT 1
+    FROM `AspNetUsers` AS `a`
+    WHERE `a`.`UserName` = @__userName_0)
+2024-05-23 21:46:09.300 -04:00 [INF] Executing OkObjectResult, writing value of type 'inv_gen_api.Application.Features.Users.Commands.RegisterUser.RegisterUserCommandResponse'.
+2024-05-23 21:46:09.300 -04:00 [INF] Executed action inv_gen_api.Controllers.UserController.RegisterUser (inv-gen-api) in 37.5147ms
+2024-05-23 21:46:09.300 -04:00 [INF] Executed endpoint 'inv_gen_api.Controllers.UserController.RegisterUser (inv-gen-api)'
+2024-05-23 21:46:09.300 -04:00 [INF] HTTP POST /Api/Users/Register responded 200 in 37.8738 ms
+2024-05-23 21:46:09.301 -04:00 [INF] Request finished HTTP/2 POST https://localhost:1555/Api/Users/Register - 200 152 application/json; charset=utf-8 44.0738ms
+2024-05-23 21:48:33.028 -04:00 [INF] User profile is available. Using 'C:\Users\smits\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-05-23 21:48:33.174 -04:00 [INF] Now listening on: https://localhost:1555
+2024-05-23 21:48:33.174 -04:00 [INF] Now listening on: http://localhost:1556
+2024-05-23 21:48:33.175 -04:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-23 21:48:33.176 -04:00 [INF] Hosting environment: Development
+2024-05-23 21:48:33.176 -04:00 [INF] Content root path: D:\Projects\InvGen\inv-gen-api
+2024-05-23 21:48:33.764 -04:00 [INF] Request starting HTTP/2 GET https://localhost:1555/swagger - null null
+2024-05-23 21:48:33.926 -04:00 [INF] Request finished HTTP/2 GET https://localhost:1555/swagger - 301 0 null 166.7834ms
+2024-05-23 21:48:33.932 -04:00 [INF] Request starting HTTP/2 GET https://localhost:1555/swagger/index.html - null null
+2024-05-23 21:48:33.987 -04:00 [INF] Request finished HTTP/2 GET https://localhost:1555/swagger/index.html - 200 null text/html;charset=utf-8 55.2642ms
+2024-05-23 21:48:34.002 -04:00 [INF] Request starting HTTP/2 GET https://localhost:1555/swagger/swagger-ui.css - null null
+2024-05-23 21:48:34.005 -04:00 [INF] Request starting HTTP/2 GET https://localhost:1555/swagger/swagger-ui-standalone-preset.js - null null
+2024-05-23 21:48:34.005 -04:00 [INF] Request starting HTTP/2 GET https://localhost:1555/swagger/swagger-ui-bundle.js - null null
+2024-05-23 21:48:34.005 -04:00 [INF] Request starting HTTP/2 GET https://localhost:1555/_framework/aspnetcore-browser-refresh.js - null null
+2024-05-23 21:48:34.005 -04:00 [INF] Request starting HTTP/2 GET https://localhost:1555/_vs/browserLink - null null
+2024-05-23 21:48:34.018 -04:00 [INF] Request finished HTTP/2 GET https://localhost:1555/_framework/aspnetcore-browser-refresh.js - 200 13758 application/javascript; charset=utf-8 13.013ms
+2024-05-23 21:48:34.043 -04:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2024-05-23 21:48:34.043 -04:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2024-05-23 21:48:34.045 -04:00 [INF] Request finished HTTP/2 GET https://localhost:1555/swagger/swagger-ui-standalone-preset.js - 200 339486 text/javascript 40.6157ms
+2024-05-23 21:48:34.045 -04:00 [INF] Request finished HTTP/2 GET https://localhost:1555/swagger/swagger-ui.css - 200 143943 text/css 43.6283ms
+2024-05-23 21:48:34.050 -04:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2024-05-23 21:48:34.050 -04:00 [INF] Request finished HTTP/2 GET https://localhost:1555/swagger/swagger-ui-bundle.js - 200 1096145 text/javascript 45.2729ms
+2024-05-23 21:48:34.065 -04:00 [INF] Request finished HTTP/2 GET https://localhost:1555/_vs/browserLink - 200 null text/javascript; charset=UTF-8 59.2998ms
+2024-05-23 21:48:34.192 -04:00 [INF] Request starting HTTP/2 GET https://localhost:1555/swagger/v1/swagger.json - null null
+2024-05-23 21:48:34.211 -04:00 [INF] Request starting HTTP/2 GET https://localhost:1555/swagger/favicon-32x32.png - null null
+2024-05-23 21:48:34.212 -04:00 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2024-05-23 21:48:34.212 -04:00 [INF] Request finished HTTP/2 GET https://localhost:1555/swagger/favicon-32x32.png - 200 628 image/png 0.7889ms
+2024-05-23 21:48:34.257 -04:00 [INF] Request finished HTTP/2 GET https://localhost:1555/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 64.9949ms
+2024-05-23 21:48:50.747 -04:00 [INF] Request starting HTTP/2 POST https://localhost:1555/Api/Users/Register - application/json-patch+json 50
+2024-05-23 21:48:50.758 -04:00 [INF] CORS policy execution successful.
+2024-05-23 21:48:50.807 -04:00 [INF] Executing endpoint 'inv_gen_api.Controllers.UserController.RegisterUser (inv-gen-api)'
+2024-05-23 21:48:50.823 -04:00 [INF] Route matched with {action = "RegisterUser", controller = "User"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[inv_gen_api.Application.Features.Users.Commands.RegisterUser.RegisterUserCommandResponse]] RegisterUser(inv_gen_api.Application.Features.Users.Commands.RegisterUser.RegisterUserCommand) on controller inv_gen_api.Controllers.UserController (inv-gen-api).
+2024-05-23 21:48:51.633 -04:00 [INF] Executed DbCommand (26ms) [Parameters=[@__userName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT EXISTS (
+    SELECT 1
+    FROM `AspNetUsers` AS `a`
+    WHERE `a`.`UserName` = @__userName_0)
+2024-05-23 21:48:51.654 -04:00 [INF] Executing OkObjectResult, writing value of type 'inv_gen_api.Application.Features.Users.Commands.RegisterUser.RegisterUserCommandResponse'.
+2024-05-23 21:48:51.676 -04:00 [INF] Executed action inv_gen_api.Controllers.UserController.RegisterUser (inv-gen-api) in 850.6357ms
+2024-05-23 21:48:51.676 -04:00 [INF] Executed endpoint 'inv_gen_api.Controllers.UserController.RegisterUser (inv-gen-api)'
+2024-05-23 21:48:51.678 -04:00 [INF] HTTP POST /Api/Users/Register responded 200 in 871.1380 ms
+2024-05-23 21:48:51.683 -04:00 [INF] Request finished HTTP/2 POST https://localhost:1555/Api/Users/Register - 200 199 application/json; charset=utf-8 936.3508ms
+2024-05-23 21:50:58.960 -04:00 [INF] Request starting HTTP/2 POST https://localhost:1555/Api/Users/Register - application/json-patch+json 51
+2024-05-23 21:50:58.964 -04:00 [INF] CORS policy execution successful.
+2024-05-23 21:50:58.965 -04:00 [INF] Executing endpoint 'inv_gen_api.Controllers.UserController.RegisterUser (inv-gen-api)'
+2024-05-23 21:50:58.965 -04:00 [INF] Route matched with {action = "RegisterUser", controller = "User"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[inv_gen_api.Application.Features.Users.Commands.RegisterUser.RegisterUserCommandResponse]] RegisterUser(inv_gen_api.Application.Features.Users.Commands.RegisterUser.RegisterUserCommand) on controller inv_gen_api.Controllers.UserController (inv-gen-api).
+2024-05-23 21:50:58.998 -04:00 [INF] Executed DbCommand (4ms) [Parameters=[@__userName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT EXISTS (
+    SELECT 1
+    FROM `AspNetUsers` AS `a`
+    WHERE `a`.`UserName` = @__userName_0)
+2024-05-23 21:50:58.998 -04:00 [INF] Executing OkObjectResult, writing value of type 'inv_gen_api.Application.Features.Users.Commands.RegisterUser.RegisterUserCommandResponse'.
+2024-05-23 21:50:58.999 -04:00 [INF] Executed action inv_gen_api.Controllers.UserController.RegisterUser (inv-gen-api) in 33.9113ms
+2024-05-23 21:50:58.999 -04:00 [INF] Executed endpoint 'inv_gen_api.Controllers.UserController.RegisterUser (inv-gen-api)'
+2024-05-23 21:50:58.999 -04:00 [INF] HTTP POST /Api/Users/Register responded 200 in 34.3186 ms
+2024-05-23 21:50:58.999 -04:00 [INF] Request finished HTTP/2 POST https://localhost:1555/Api/Users/Register - 200 147 application/json; charset=utf-8 39.2416ms
+2024-05-23 21:51:36.588 -04:00 [INF] Request starting HTTP/2 POST https://localhost:1555/Api/Users/Register - application/json-patch+json 52
+2024-05-23 21:51:36.623 -04:00 [INF] CORS policy execution successful.
+2024-05-23 21:51:36.625 -04:00 [INF] Executing endpoint 'inv_gen_api.Controllers.UserController.RegisterUser (inv-gen-api)'
+2024-05-23 21:51:36.625 -04:00 [INF] Route matched with {action = "RegisterUser", controller = "User"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[inv_gen_api.Application.Features.Users.Commands.RegisterUser.RegisterUserCommandResponse]] RegisterUser(inv_gen_api.Application.Features.Users.Commands.RegisterUser.RegisterUserCommand) on controller inv_gen_api.Controllers.UserController (inv-gen-api).
+2024-05-23 21:51:36.673 -04:00 [INF] Executed DbCommand (2ms) [Parameters=[@__userName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT EXISTS (
+    SELECT 1
+    FROM `AspNetUsers` AS `a`
+    WHERE `a`.`UserName` = @__userName_0)
+2024-05-23 21:51:36.783 -04:00 [INF] Executed DbCommand (1ms) [Parameters=[@__normalizedUserName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT `a`.`Id`, `a`.`AccessFailedCount`, `a`.`ConcurrencyStamp`, `a`.`Email`, `a`.`EmailConfirmed`, `a`.`IsActive`, `a`.`LockoutEnabled`, `a`.`LockoutEnd`, `a`.`Name`, `a`.`NormalizedEmail`, `a`.`NormalizedUserName`, `a`.`PasswordHash`, `a`.`PhoneNumber`, `a`.`PhoneNumberConfirmed`, `a`.`SecurityStamp`, `a`.`TwoFactorEnabled`, `a`.`UserName`
+FROM `AspNetUsers` AS `a`
+WHERE `a`.`NormalizedUserName` = @__normalizedUserName_0
+LIMIT 1
+2024-05-23 21:51:36.913 -04:00 [INF] Executed DbCommand (2ms) [Parameters=[@p0='?' (Size = 255), @p1='?' (DbType = Int32), @p2='?' (Size = 4000), @p3='?' (Size = 256), @p4='?' (DbType = Boolean), @p5='?' (DbType = Boolean), @p6='?' (DbType = DateTimeOffset), @p7='?' (Size = 4000), @p8='?' (Size = 256), @p9='?' (Size = 256), @p10='?' (Size = 4000), @p11='?' (Size = 4000), @p12='?' (DbType = Boolean), @p13='?' (Size = 4000), @p14='?' (DbType = Boolean), @p15='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+INSERT INTO `AspNetUsers` (`Id`, `AccessFailedCount`, `ConcurrencyStamp`, `Email`, `EmailConfirmed`, `LockoutEnabled`, `LockoutEnd`, `Name`, `NormalizedEmail`, `NormalizedUserName`, `PasswordHash`, `PhoneNumber`, `PhoneNumberConfirmed`, `SecurityStamp`, `TwoFactorEnabled`, `UserName`)
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5, @p6, @p7, @p8, @p9, @p10, @p11, @p12, @p13, @p14, @p15);
+SELECT `IsActive`
+FROM `AspNetUsers`
+WHERE ROW_COUNT() = 1 AND `Id` = @p0;
+2024-05-23 21:51:36.936 -04:00 [INF] Executing OkObjectResult, writing value of type 'inv_gen_api.Application.Features.Users.Commands.RegisterUser.RegisterUserCommandResponse'.
+2024-05-23 21:51:36.936 -04:00 [INF] Executed action inv_gen_api.Controllers.UserController.RegisterUser (inv-gen-api) in 310.9737ms
+2024-05-23 21:51:36.936 -04:00 [INF] Executed endpoint 'inv_gen_api.Controllers.UserController.RegisterUser (inv-gen-api)'
+2024-05-23 21:51:36.936 -04:00 [INF] HTTP POST /Api/Users/Register responded 200 in 311.2173 ms
+2024-05-23 21:51:36.936 -04:00 [INF] Request finished HTTP/2 POST https://localhost:1555/Api/Users/Register - 200 152 application/json; charset=utf-8 349.27ms
