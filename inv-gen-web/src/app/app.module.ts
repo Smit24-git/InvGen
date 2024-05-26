@@ -3,9 +3,10 @@ import { BrowserModule } from '@angular/platform-browser';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
-import { TopbarModule } from './components/topbar/topbar.module';
 import { SharedModule } from './shared/shared.module';
 import { LoginModule } from './modules/login/login.module';
+import { HttpClientModule } from '@angular/common/http';
+import { CustomComponents } from './components/custom-components.module';
 
 @NgModule({
   declarations: [
@@ -14,7 +15,8 @@ import { LoginModule } from './modules/login/login.module';
   imports: [
     BrowserModule,
     AppRoutingModule,
-    TopbarModule,
+    HttpClientModule,
+    CustomComponents,
     LoginModule,
     SharedModule,
   ],

@@ -41,6 +41,7 @@ import { TagModule } from 'primeng/tag';
 import { TooltipModule } from 'primeng/tooltip';
 import { SelectButtonModule } from 'primeng/selectbutton';
 import { TreeModule } from 'primeng/tree';
+import { HttpInterceptorProviders } from './interceptors/interceptor-providers';
 
 @NgModule({
   declarations: [
@@ -134,6 +135,7 @@ import { TreeModule } from 'primeng/tree';
   ],
   providers: [
     MessageService,
+    HttpInterceptorProviders,
   ],
 })
 export class SharedModule { }

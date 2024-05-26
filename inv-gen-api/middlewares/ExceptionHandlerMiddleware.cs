@@ -38,7 +38,11 @@ namespace inv_gen_api.middlewares
                     break;
                 case BadRequestException badRequestException:
                     httpStatusCode = HttpStatusCode.BadRequest;
-                    res = badRequestException.Message;
+                    res = JsonSerializer.Serialize(badRequestException.Message);
+                    break;
+                case RequestFailedException requestFailedException:
+                    httpStatusCode = HttpStatusCode.BadRequest;
+                    res = JsonSerializer.Serialize(new { requestFailedException.Message, requestFailedException.BaseResponse.Errors });
                     break;
                 case NotFoundException:
                     httpStatusCode = HttpStatusCode.NotFound;
@@ -50,7 +54,7 @@ namespace inv_gen_api.middlewares
             context.Response.StatusCode = (int)httpStatusCode;
             if (res == string.Empty)
             {
-                res = JsonSerializer.Serialize(new { error = ex.Message });
+                res = JsonSerializer.Serialize(new { ex.Message });
             }
 
             return context.Response.WriteAsync(res);

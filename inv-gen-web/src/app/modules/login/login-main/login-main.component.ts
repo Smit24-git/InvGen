@@ -10,6 +10,6 @@ export class LoginMainComponent implements OnInit {
   isLogin = true;
 
   ngOnInit(): void {
-    throw new Error('Method not implemented.');
+
   }
 }
