@@ -41,6 +41,8 @@ namespace inv_gen_api.Application.Features.Users.Commands.RegisterUser
                 res.IsSuccess = false;
                 res.Message = "Failed to add new user";
                 res.Errors = result.Errors.Select(e => e.Description).ToList();
+
+                throw new RequestFailedException(res);
             }
 
             return res;

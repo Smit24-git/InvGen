@@ -15,6 +15,9 @@
             </div>
             <div class="flex-1 field">
                 <input type="password" pInputText formControlName="rPassword" placeholder="Retype Password"/>
+                <div *ngIf="form.errors?.['passwordMismatch'] && (form.controls['rPassword'].dirty || form.controls['rPassword'].touched)">
+                    <small class="text-orange-300">Password does not match.</small>
+                </div>
             </div>
             <div class="flex-1 field">
                 <p-button label="Submit" type="submit" [disabled]="form.invalid"></p-button>
