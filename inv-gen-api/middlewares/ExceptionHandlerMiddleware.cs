@@ -34,11 +34,11 @@ namespace inv_gen_api.middlewares
             {
                 case ValidationException validationException:
                     httpStatusCode = HttpStatusCode.BadRequest;
-                    res = JsonSerializer.Serialize(validationException.Errors);
+                    res = JsonSerializer.Serialize(new { validationException.Errors });
                     break;
                 case BadRequestException badRequestException:
                     httpStatusCode = HttpStatusCode.BadRequest;
-                    res = JsonSerializer.Serialize(badRequestException.Message);
+                    res = JsonSerializer.Serialize(new { badRequestException.Message });
                     break;
                 case RequestFailedException requestFailedException:
                     httpStatusCode = HttpStatusCode.BadRequest;
