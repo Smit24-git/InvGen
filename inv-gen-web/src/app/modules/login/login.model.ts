@@ -8,3 +8,10 @@ export interface LoginModel{
 export interface RegisterUserResponse extends BaseResponse{
     userDetails: { id:string, userName:string }
 }
+
+export interface LoginUserResponse extends BaseResponse {
+    token: string;
+    userName: string;
+    id: string;
+    roles: string[];
+}

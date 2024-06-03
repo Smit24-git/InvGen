@@ -14,6 +14,7 @@ export class HttpExceptionInterceptor implements HttpInterceptor {
     return next.handle(request).pipe(tap({
       next: ($event: any) => {
         if(! ($event instanceof HttpResponse)) return;
+        if($event.ok) return;
   
         const res =  $event.body as BaseResponse;
         if(res.isSuccess) return;
