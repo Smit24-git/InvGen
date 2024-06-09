@@ -3,6 +3,7 @@ import { Inject, Injectable, inject } from '@angular/core';
 import { environment } from 'src/environments/environment';
 import { LoginUserResponse, RegisterUserResponse } from './login.model';
 import { Observable, map } from 'rxjs';
+import { LocalStorageService } from 'src/app/shared/services/local-storage/local-storage.service';
 
 @Injectable({
   providedIn: 'root'
@@ -14,6 +15,7 @@ export class UserAuthenticationService {
   private readonly authTestURL = environment.url + '/auth/test';
 
   private http = inject(HttpClient);
+  private localStorageService = inject(LocalStorageService);
 
   constructor() { }
 
@@ -30,6 +32,11 @@ export class UserAuthenticationService {
     }));
   }
 
+  public checkIsLoggedIn(){
+    if(this.localStorageService.getItem(this.localStorageService.tokenKey))
+      return true;
+    return false;
+  }
   public testAuthentication():Observable<string> {
     return this.http.get<string>(this.authTestURL);
   }

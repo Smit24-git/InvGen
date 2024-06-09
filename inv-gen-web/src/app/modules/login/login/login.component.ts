@@ -5,6 +5,7 @@ import { UserAuthenticationService } from '../user-authentication.service';
 import { ToastMessageService } from 'src/app/components/toast-message/toast-message.service';
 import { LocalStorageService } from 'src/app/shared/services/local-storage/local-storage.service';
 import { Token } from '@angular/compiler';
+import { Router } from '@angular/router';
 
 @Component({
   selector: 'app-login',
@@ -20,13 +21,20 @@ export class LoginComponent implements OnInit {
   userAuthService = inject(UserAuthenticationService);
   toastMsgService = inject(ToastMessageService);
   localStorageService = inject(LocalStorageService);
-
+  router = inject(Router);
   constructor(){
 
   }
 
   ngOnInit(): void {
     this.buildForm();
+    
+    // check is logged in.
+    if(this.userAuthService.checkIsLoggedIn()){
+      this.userAuthService.testAuthentication().subscribe(()=>{
+        this.router.navigate(['/business-settings']);
+      });
+    }
   }
   
   buildForm(){
@@ -44,7 +52,9 @@ export class LoginComponent implements OnInit {
       complete: ()=>{
         this.toastMsgService.showSuccess("Login","Logged in successfully."); 
         this.userAuthService.testAuthentication().subscribe((res)=>{
-          console.log(res);
+          // route to business - settings.
+          this.router.navigate(['business-settings']);
+          
         });
       },
     });

@@ -7,6 +7,8 @@ import { SharedModule } from './shared/shared.module';
 import { LoginModule } from './modules/login/login.module';
 import { HttpClientModule } from '@angular/common/http';
 import { CustomComponents } from './components/custom-components.module';
+import { FontAwesomeModule } from '@fortawesome/angular-fontawesome';
+import { ManageSystemModule } from './modules/manage-system/manage-system.module';
 
 @NgModule({
   declarations: [
@@ -19,6 +21,8 @@ import { CustomComponents } from './components/custom-components.module';
     CustomComponents,
     LoginModule,
     SharedModule,
+    FontAwesomeModule,
+    ManageSystemModule,
   ],
   providers: [],
   bootstrap: [AppComponent]

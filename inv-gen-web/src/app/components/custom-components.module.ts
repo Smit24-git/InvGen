@@ -3,6 +3,7 @@ import { CommonModule } from '@angular/common';
 import { TopBarComponent } from './topbar/top-bar.component';
 import { ToastMessageComponent } from './toast-message/toast-message.component';
 import { SharedModule } from '../shared/shared.module';
+import { TopbarMenuComponent } from './topbar-menu/topbar-menu.component';
 
 
 
@@ -10,6 +11,7 @@ import { SharedModule } from '../shared/shared.module';
   declarations: [
     TopBarComponent,
     ToastMessageComponent,
+    TopbarMenuComponent
   ],
   imports: [
     CommonModule,
@@ -18,6 +20,7 @@ import { SharedModule } from '../shared/shared.module';
   exports: [
     TopBarComponent,
     ToastMessageComponent,
+    TopbarMenuComponent,
   ]
 })
 export class CustomComponents { }
